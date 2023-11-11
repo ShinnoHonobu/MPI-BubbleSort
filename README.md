@@ -32,7 +32,6 @@ Fill in all requests requested by the system, with the user name which must be t
 
 2. Once installed, you can check SSH with the following command.
 ![PP6](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/86f0191b-ef8a-415c-b7eb-a40e42470feb)
-
 So the result after the SSH installation will be like the following image.
 ![PP26](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/6e60cebb-d8aa-42ca-8d46-bfa00491545d)
 
