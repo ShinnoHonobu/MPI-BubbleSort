@@ -32,6 +32,7 @@ Fill in all requests requested by the system, with the user name which must be t
 
 2. Once installed, you can check SSH with the following command.
 ![PP6](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/86f0191b-ef8a-415c-b7eb-a40e42470feb)
+
 3. So the result after the SSH installation will be like the following image.
 ![PP26](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/6e60cebb-d8aa-42ca-8d46-bfa00491545d)
 
@@ -70,17 +71,17 @@ Later the system will ask for some input, just skip it. Later, there will be an 
 ![PP18](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/59f02175-3818-434c-a440-d804f7d458ba)
 
 2. Then on Ubuntu Master, create a python file in the shared folder with the command below.
-
-![PP20](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/59ab5a88-98de-42e4-897d-b7776827197c)
 ![PP19](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/af49d13e-4056-4844-bc98-5c41123e9c0f)
-3. Before executing the Bubble Sort coding, first carry out testing on MPI with the following command
+![PP20](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/59ab5a88-98de-42e4-897d-b7776827197c)
 
+3. Before executing the Bubble Sort coding, first carry out testing on MPI with the following command
 ![PP21](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/9f3ea032-895d-48a2-bbec-46965f3d4e82)
 ![PP22](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/6fab69f1-497a-4fb8-98e4-98722aba7bba)
 ![PP23](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/46710b3b-bb83-451b-af76-50a51a029c5e)
-![PP24](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/3b9f1a9c-0652-479a-8ee3-0dccddde6a59)
 
 4. Enter the Bubble Sort coding in the python file with the command below.
+![PP24](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/3b9f1a9c-0652-479a-8ee3-0dccddde6a59)
+You can check the code in the code menu
 
 5. Next, run the file with the following command so that the following output appears.
 ![PP25](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/98398bb3-9977-4720-87d4-476025b9f048)
