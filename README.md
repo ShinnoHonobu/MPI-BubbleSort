@@ -15,4 +15,6 @@ This repository contains how to execute a bubble sort program in python using MP
 # Configure "etc/hosts/" File
 1. Make sure the installed Ubuntu Desktop uses a Network Bridged Adapter, and each Master and Slave are connected to the same internet. Make sure the Master and Slave IPs are known
 2. First of all, enter the command to make changes to the /etc/hosts file as shown in the image below.
+![PP2](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/a36c1bba-c702-4073-88e4-7465712e5122)
 3. Then, configure etc/hosts in etc/hosts, as shown in the image below
+![PP1](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/bd4a688c-fb00-416d-9972-e09af1d6b458)
