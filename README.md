@@ -35,3 +35,14 @@ Fill in all requests requested by the system, with the user name which must be t
 
 So the result after the SSH installation will be like the following image.
 ![PP26](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/6e60cebb-d8aa-42ca-8d46-bfa00491545d)
+
+# Generate & Copy Keygen from Master to Slave
+1. On Ubuntu Master, perform the following command
+![PP7](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/8f127f0a-1566-4549-81e6-8051ef901975)
+Later the system will ask for some input, just skip it. Later, there will be an .ssh folder containing the id_rsa and id_rsa.pub files
+
+2. Then on Ubuntu Master, copy the contents of the id_rsa.pub file to the authorized_keys file with ssh as shown in the following image
+![PP8](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/a4a5e610-2ffd-484d-991b-9800949ab755)
+![PP9](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/16ea1ac9-fd38-4cf4-b44e-2a5c666b62a5)
+
+Copy and paste several times from Master to Slave by changing the host.
