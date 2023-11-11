@@ -18,3 +18,10 @@ This repository contains how to execute a bubble sort program in python using MP
 ![PP2](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/a36c1bba-c702-4073-88e4-7465712e5122)
 3. Then, configure etc/hosts in etc/hosts, as shown in the image below
 ![PP1](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/bd4a688c-fb00-416d-9972-e09af1d6b458)
+
+# Make New User
+1. On Ubuntu Master and Slave, you need to create a new user with the command below.
+![PP3](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/94cebcd4-5406-4328-b865-d5521ee2dd2f)
+Fill in all requests requested by the system, with the user name which must be the same on the Master and each Slave
+2. Then in Master and Slave, enter the newly created user with the following command.
+![PP4](https://github.com/ShinnoHonobu/MPI-BubbleSort/assets/113822318/1af57950-95c5-417e-bdec-30b7446f21b2)
